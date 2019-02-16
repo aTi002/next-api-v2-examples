@@ -77,6 +77,7 @@ Running the test program should output something that looks similar to the follo
 ## Common issues
 * SyntaxError: check that your Python version is 3 or higher
 * NEXT\_LOGIN\_INVALID\_LOGIN\_PARAMETER: double-check your [password](https://api.test.nordnet.se/login)
+* NEXT_LOGIN_INVALID_TIMESTAMP: check your system clock to see if it is up to date
 
 ## Questions
 If you have technical questions then,
